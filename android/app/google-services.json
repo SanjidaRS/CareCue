@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713655422766",
+    "project_id": "carecue-ssupti",
+    "storage_bucket": "carecue-ssupti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713655422766:android:7275aef2a50181596074bf",
+        "android_client_info": {
+          "package_name": "com.example.carecue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdiDXE53LtCYnBBMKPWj_pHjKRAkS2F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
